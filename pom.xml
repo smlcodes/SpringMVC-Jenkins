@@ -12,7 +12,7 @@
         <repository>
             <id>spring-milestone</id>
             <name>Spring Portfolio Milestone Repository</name>
-            <url>http://repo.springsource.org/milestone/</url>
+            <url>https://repo.springsource.org/milestone/</url>
         </repository>
     </repositories>
     <properties>
